@@ -59,3 +59,5 @@ proguard/
  # Mac files
 .DS_Store
 
+# Emacs backup files
+*.*~
