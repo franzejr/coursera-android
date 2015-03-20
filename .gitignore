@@ -55,3 +55,7 @@ proguard/
 
 # Eclipse prefs files
 .prefs
+
+ # Mac files
+.DS_Store
+
